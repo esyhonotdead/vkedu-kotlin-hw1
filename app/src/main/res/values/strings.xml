@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">VKEduKotlinHW1</string>
+    <string name="app_name">VKEdu Kotlin HW1</string>
+    <string name="home_title">Homework №1</string>
+    <string name="add_square">Add new square</string>
 </resources>
